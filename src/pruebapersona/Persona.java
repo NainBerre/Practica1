@@ -35,7 +35,7 @@ public class Persona {
         this();
         this.dni = dni;
         this.nombre = nombre;
-        this.apellidos = apellidos;
+        this.apellidos = apellidos; //apellidos
         this.edad = edad;
     }
 
