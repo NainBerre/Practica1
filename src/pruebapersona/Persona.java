@@ -3,7 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pruebapersona;
+
+package pruebapersona; //el paquete pruebapersona es la carpeta donde e	sta los archivos 
 import java.util.regex.Pattern;
 
 public class Persona {
@@ -35,7 +36,7 @@ public class Persona {
         this();
         this.dni = dni;
         this.nombre = nombre;
-        this.apellidos = apellidos; //apellidos
+        this.apellidos = apellidos; 
         this.edad = edad;
     }
 
