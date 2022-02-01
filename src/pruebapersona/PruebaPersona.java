@@ -5,7 +5,7 @@
  */
 package pruebapersona;
 
-import java.util.Scanner;
+import java.util.Scanner; //import es para pedir datos al usuario.
 
 /**
  *
